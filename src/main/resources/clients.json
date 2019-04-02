@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Jose Juarez",
+    "email": "jjjuarez@gmail.com",
+    "registration_date": "2019-01-21T22:40:05",
+    "credit": 1000
+  },
+  {
+    "name": "Marcelo Tirano",
+    "email": "mtirano@gmail.com",
+    "registration_date": "2019-01-20T22:40:05",
+    "credit": 200
+  },
+  {
+    "name": "Jose Alfredo Luna",
+    "email": "jal@gmail.com",
+    "registration_date": "2018-12-31T23:59:59"
+  }
+]

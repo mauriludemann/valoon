@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Galletitas Oreo",
+    "price": "40.00"
+  },
+  {
+    "name": "Coca Cola 600ml",
+    "price": "35.00"
+  },
+  {
+    "name": "Sprite 600ml",
+    "price": "35.00"
+  },
+  {
+    "name": "Red Bull",
+    "price": "40.00"
+  },
+  {
+    "name": "Caramelo Sugus",
+    "price": "1.00"
+  },
+  {
+    "name": "Agua Evian 1.5lts",
+    "price": "40.00"
+  },
+  {
+    "name": "Lays Snacks 150grs",
+    "price": "80.00"
+  },
+  {
+    "name": "Saladix Snacks 120grs",
+    "price": "45.00"
+  },
+  {
+    "name": "Yerba Playadito 1kg",
+    "price": "150.00"
+  },
+  {
+    "name": "Cafe Dolca 500grs",
+    "price": "130.00"
+  }
+]
